@@ -1,5 +1,5 @@
 {
-  "name": "gamajo/quadratic",
+  "name": "test",
   "description": "Handle solving of quadratic equations.",
   "license": "MIT",
   "authors": [
@@ -14,7 +14,8 @@
     }
   },
   "require": {
-    "php": ">=7"
+    "php": ">=7",
+    "gamajo/quadratic": "^1.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^5.2"
